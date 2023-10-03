@@ -30,7 +30,7 @@ table th{
 </style>
 </head>
 <body>
-<form method="POST" action="mang-1.php">
+<form method="POST" action="b6_1.php">
 <table>
 <thead>
 <tr>

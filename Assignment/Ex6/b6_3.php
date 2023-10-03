@@ -44,7 +44,7 @@ width: 100%;
 </style>
 </head>
 <body>
-<form action="3-11.php" method="POST">
+<form action="b6_3.php" method="POST">
 <table border="0">
 <thead>
 <tr>

@@ -63,7 +63,7 @@ table th{
 </style>
 </head>
 <body>
-<form action="mang-2.php" method="POST">
+<form action="b6_2.php" method="POST">
 <table>
 <thead>
 <tr>
